@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T15:47:57.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="jCNOUVQnV--FaKfc8pCC" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T16:27:15.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="ljlON0-Ilec-KMc5wE6G" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="614" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,31 +20,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pPOjZ__AMGa9lNMVOs1m-4" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;hiragino sans gb w3&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;去芳香化&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pPOjZ__AMGa9lNMVOs1m-6" target="DUKsNaO2OgnoyrDqJkuF-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pPOjZ__AMGa9lNMVOs1m-6" value="检查化合价" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-0" target="DUKsNaO2OgnoyrDqJkuF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-0" value="生成分子的主要互变异构形式" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-2" target="DUKsNaO2OgnoyrDqJkuF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-2" value="移除显示氢原子" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-4" target="DUKsNaO2OgnoyrDqJkuF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-4" value="清除带自由基的反应" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-6" target="DUKsNaO2OgnoyrDqJkuF-8">
           <mxGeometry relative="1" as="geometry" />
@@ -53,10 +53,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-6" value="处理同位素" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3选1&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1.保持原样&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2.去除同位素信息&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3.删除该反应&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-10" target="DUKsNaO2OgnoyrDqJkuF-12">
           <mxGeometry relative="1" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-10" value="处理离子" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-12" value="&lt;div&gt;3选1&lt;/div&gt;&lt;div&gt;1.保持原样&lt;/div&gt;2.将离子合并成原来的化合物&lt;br&gt;&lt;div&gt;3.将离子作为一个独立的组分对待&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="1040" width="210" height="60" as="geometry" />
+          <mxGeometry x="350" y="660" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-14" target="DUKsNaO2OgnoyrDqJkuF-16">
           <mxGeometry relative="1" as="geometry" />
@@ -77,19 +77,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-14" value="芳香化" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-16" value="&lt;div&gt;遵循Huckel 规则&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="1180" width="110" height="60" as="geometry" />
+          <mxGeometry x="350" y="750" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-18" target="DUKsNaO2OgnoyrDqJkuF-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-18" value="移除反应前后不发生改变的化合物" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-20" value="移除重复的反应" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="1460" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
