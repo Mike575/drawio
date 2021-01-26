@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T16:50:39.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="WLUE4cnkK9NRVLZpmURh" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T16:53:41.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="tAtcG2lKDHLloNzsRi_9" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="614" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,6 +100,9 @@
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-18" target="DUKsNaO2OgnoyrDqJkuF-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DUKsNaO2OgnoyrDqJkuF-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-18" target="DUKsNaO2OgnoyrDqJkuF-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-18" value="移除反应前后不发生改变的化合物" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="840" width="120" height="60" as="geometry" />
         </mxCell>
@@ -120,6 +123,9 @@
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-30" value="带自由基的反应通常由文本挖掘时出现的错误引起，予以移除。" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DUKsNaO2OgnoyrDqJkuF-32" value="移除不贡献原子的化合物。默认反应物分子反应前后应发生改变。" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="840" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
