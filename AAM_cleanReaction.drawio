@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T16:53:41.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="tAtcG2lKDHLloNzsRi_9" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T16:56:26.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="vsQBNxKOH909lCm0Ced2" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="614" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,8 +94,8 @@
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-14" value="芳香化" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DUKsNaO2OgnoyrDqJkuF-16" value="&lt;div&gt;遵循Huckel 规则&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="750" width="110" height="60" as="geometry" />
+        <mxCell id="DUKsNaO2OgnoyrDqJkuF-16" value="&lt;div&gt;遵循Huckel 规则。如果芳香化容易使氢原子所在位置发生争议，则保留Kekule形式，例如吡咯。&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="750" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-18" target="DUKsNaO2OgnoyrDqJkuF-20">
           <mxGeometry relative="1" as="geometry" />
