@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T16:45:38.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="_IpY7W07D2d0zRs_IPJB" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T16:48:36.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="TzslGiPCPd8ho4MUsfC9" version="14.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="614" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,10 @@
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-0" target="DUKsNaO2OgnoyrDqJkuF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DUKsNaO2OgnoyrDqJkuF-0" value="生成分子的主要互变异构形式" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DUKsNaO2OgnoyrDqJkuF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-0" target="DUKsNaO2OgnoyrDqJkuF-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DUKsNaO2OgnoyrDqJkuF-0" value="采用分子的主要互变异构形式" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DUKsNaO2OgnoyrDqJkuF-2" target="DUKsNaO2OgnoyrDqJkuF-4">
@@ -108,6 +111,9 @@
         </mxCell>
         <mxCell id="DUKsNaO2OgnoyrDqJkuF-26" value="检查每个原子的化合价，若不正确则删除反应。" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DUKsNaO2OgnoyrDqJkuF-28" value="一个分子可能有多种互变异构形式，所有化学反应统一采用一种以便去重。" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="310" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
