@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T07:40:24.558Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2VrjWVraNMC7ix9DibEP" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T08:00:04.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fFBV8qtxXLFIyMcyzBLO" version="20.5.3" type="github">
   <diagram id="YjvE4-813Z_ukvML9R5E" name="Page-1">
-    <mxGraphModel dx="1501" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a6XsnApybLkVwkPyrAR7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-13" target="a6XsnApybLkVwkPyrAR7-14">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-13" target="a6XsnApybLkVwkPyrAR7-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Input&amp;nbsp; WSI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="360" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="a6XsnApybLkVwkPyrAR7-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Input&amp;nbsp; WSI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-14" target="a6XsnApybLkVwkPyrAR7-16">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-14" target="a6XsnApybLkVwkPyrAR7-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-14" value="切割WSI成patch" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="a6XsnApybLkVwkPyrAR7-14" value="切割WSI成patch" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-16" target="a6XsnApybLkVwkPyrAR7-18">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-16" target="a6XsnApybLkVwkPyrAR7-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-16" value="使用swin-hovernet进行细胞分割" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="a6XsnApybLkVwkPyrAR7-16" value="使用swin-hovernet进行细胞分割" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-18" target="a6XsnApybLkVwkPyrAR7-20">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-18" target="a6XsnApybLkVwkPyrAR7-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-18" value="寻找分割异常的淋巴细胞" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-18" value="寻找分割异常的淋巴细胞" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-20" target="a6XsnApybLkVwkPyrAR7-28">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-20" target="a6XsnApybLkVwkPyrAR7-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" target="a6XsnApybLkVwkPyrAR7-34">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" target="a6XsnApybLkVwkPyrAR7-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="1002.5" as="sourcePoint" />
             <Array as="points">
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" target="a6XsnApybLkVwkPyrAR7-36">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" target="a6XsnApybLkVwkPyrAR7-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="1002.5" as="sourcePoint" />
             <Array as="points">
@@ -49,45 +49,45 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" target="a6XsnApybLkVwkPyrAR7-38">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" target="a6XsnApybLkVwkPyrAR7-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="1002.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-20" value="针对模型一次分割结果存在异常的淋巴细胞使用自适应细胞膨胀算法进行二次细胞分割" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1110" width="180" height="80" as="geometry" />
+        <mxCell id="a6XsnApybLkVwkPyrAR7-20" value="针分割结果存在异常的淋巴细胞使用自适应细胞膨胀算法进行二次细胞分割" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1070" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-28" target="a6XsnApybLkVwkPyrAR7-30">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-28" target="a6XsnApybLkVwkPyrAR7-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-28" value="合并两次分割结果" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1265" width="120" height="60" as="geometry" />
+        <mxCell id="a6XsnApybLkVwkPyrAR7-28" value="合并两次分割结果" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-30" target="a6XsnApybLkVwkPyrAR7-32">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-30" target="a6XsnApybLkVwkPyrAR7-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-30" value="合并patch预测结果" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1405" width="120" height="60" as="geometry" />
+        <mxCell id="a6XsnApybLkVwkPyrAR7-30" value="合并patch预测结果" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-32" value="输出WSI淋巴细胞mask" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1545" width="120" height="60" as="geometry" />
+        <mxCell id="a6XsnApybLkVwkPyrAR7-32" value="输出WSI淋巴细胞mask" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-34" value="点状标注被遗漏" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-34" value="点状标注被遗漏" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="877.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-36" value="长、宽、长宽比任何一个超过其6倍标准差范围" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-36" value="长、宽、长宽比任何一个超过其6倍标准差范围" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="1062.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-38" value="一个分割区域内存在一个以上的点状标注" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-38" value="一个分割区域内存在一个以上的点状标注" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="972.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="a6XsnApybLkVwkPyrAR7-44" target="a6XsnApybLkVwkPyrAR7-45">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="a6XsnApybLkVwkPyrAR7-44" target="a6XsnApybLkVwkPyrAR7-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-44" value="swin-hovernet细胞分割结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-44" value="swin-hovernet细胞分割结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="990" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6XsnApybLkVwkPyrAR7-45" value="按连通区域给细胞进行编号" style="whiteSpace=wrap;html=1;fontSize=13;rounded=1;" vertex="1" parent="1">
+        <mxCell id="a6XsnApybLkVwkPyrAR7-45" value="按连通区域给细胞进行编号" style="whiteSpace=wrap;html=1;fontSize=13;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
